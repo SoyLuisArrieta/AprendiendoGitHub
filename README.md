@@ -93,5 +93,11 @@ Este es un repositorio que destine para aprender Git y Gitbub
 # Forzar a obtener el repositorio de github para fusionar el proyecto con el repositorio de github
 	git pull origin master --allow-unrelated-histories
 
+# Borrar Branch del repositorio Local
+	git branch -d localBranchName
+
+# Borrar Branch del repositorio Remoto
+	git push origin --delete remoteBranchName
+
 # Para traer el proyecto del repositorio remoto
 	git clone url
