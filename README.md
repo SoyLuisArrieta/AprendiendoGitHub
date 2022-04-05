@@ -13,7 +13,7 @@ Este es un repositorio que destine para aprender Git y Gitbub
 
 ## GIT
 
-# Dentro de la carpeta global del proyecto, empezar un repositorio
+# Dentro de la carpeta raíz del proyecto, empezar un repositorio
 	git init
 
 # Para ver el estado de cambios del proyecto
