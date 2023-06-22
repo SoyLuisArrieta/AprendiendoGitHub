@@ -1,8 +1,5 @@
 # AprendiendoGitHub
-Este es un repositorio que destine para aprender Git y Gitbub
-
-
-## MIS NOTAS ###
+Este es un repositorio que destine para aprender Git y GitHub
 
 ### Para ver la lista configuraciones 
 	git config --list
