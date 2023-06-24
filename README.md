@@ -1,4 +1,4 @@
-# AprendiendoGitHub
+# Aprendiendo Git y GitHub
 Este es un repositorio que destine para aprender Git y GitHub
 
 ### Para ver la lista configuraciones 
@@ -7,8 +7,6 @@ Este es un repositorio que destine para aprender Git y GitHub
 ### Configuración de usuario en Git
 	git config --global user.name "Luis Arrieta"
 	git config --global user.email "luisarrieta796@gmail.com"
-
-## GIT
 
 ### Dentro de la carpeta raíz del proyecto, empezar un repositorio
 	git init
